@@ -1,0 +1,73 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+.box{
+    height: 100vh;
+    width: 100%;
+    background-color: #00CED1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.t1{
+    margin-bottom: 62vh;
+    margin-left: 12vw;
+    display: flex;
+    position: absolute;
+    margin-top: 12vh;
+    left: 28vw;
+    font-size: 42px;
+    font-weight:800 ;
+    color: white;
+}
+.whitearea{
+    height: 40vh;
+    width: 40vw;
+    background-color: white;
+    border-radius: 12px;
+    
+}
+.inp1{
+    height: 6vh;
+    width: 22vw;
+    border-radius: 12px;
+    margin-left: 4vw;
+    margin-top: 2vh;
+}
+.btn0{
+background-color: #ACE1AF;
+height: 2vw;
+width: 4vw;
+border-radius: 12px;
+margin-top: 4vh;
+margin-right: 2px;
+margin-left: 2px;
+}
+.p1{
+    padding: 0.5em;
+    margin-top: 2vh;
+    padding-left:3vw;
+    font-family: "Titillium Web", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  background-color:lightgrey ;
+  border-radius: 12px;
+  border: 1px solid black;
+}
+.btn1{
+    margin-top: 4vh;
+    width: 6vw;
+    background-color: #ACE1AF;
+    border-radius: 12px;
+    height: 2vw;
+}
+.btn3{
+    background-color: #ACE1AF;
+}
+.btn3{
+    margin-left: 28vw;
+}
